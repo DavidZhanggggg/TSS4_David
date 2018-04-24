@@ -1,0 +1,192 @@
+.wide {letter-spacing: 10px;}
+.hover-opacity {cursor: pointer;}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+
+
+.button:hover{
+color:#000!important;background-color:#ccc!important
+}
+
+.btn,.button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+
+.hover-black:hover{
+color:#fff!important;background-color:#000!important
+}
+
+.hide{display:none!important}
+
+.hide-large{display:none!important}
+
+.hide-medium{display:none!important}}
+
+.hide-small{display:none!important}
+
+.right{float:right!important}
+
+.hover-red:hover{
+.color:#fff!important;background-color:#f44336!important
+}
+
+.bar{width:100%;overflow:hidden}.center .bar{display:inline-block;width:auto}
+.bar .bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.bar .dropdown-hover,.bar .w3-dropdown-click{position:static;float:left}
+.bar .button{white-space:normal}
+.bar-block .bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
+.bar-block.center .bar-item{text-align:center}.block{display:block;width:100%}
+
+.display-middle{
+position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%)
+}
+
+.display-container:hover 
+.display-hover{display:block}
+.display-container:hover span
+.display-hover{display:inline-block}
+.display-hover{display:none}
+
+.white,.hover-white:hover{color:#000!important;background-color:#fff!important}
+
+.opacity,.hover-opacity:hover{opacity:0.60}
+
+.bar-block.center .bar-item{text-align:center}.block{display:block;width:100%}
+
+.black,.hover-black:hover{
+color:#fff!important;background-color:#000!important
+}
+
+.large{font-size:18px!important}
+
+.xlarge{font-size:24px!important}
+
+.wide{letter-spacing:4px}
+
+.animate-opacity{animation:opac 0.8s}@keyframes opac{from{opacity:0} to{opacity:1}}
+
+.content{max-width:980px;margin:auto}
+
+.padding-large{padding:12px 24px!important}
+
+.container{padding:0.01em 16px}
+
+.padding-16{padding-top:16px!important;padding-bottom:16px!important}
+
+.padding-64{padding-top:64px!important;padding-bottom:64px!important}
+
+.center{text-align:center!important}
+
+.row-padding,
+.row-padding>
+.half,
+.row-padding>
+.third,
+.row-padding>
+.twothird,
+.row-padding>
+.threequarter,
+.row-padding>
+.quarter,
+.row-padding>
+.col{padding:0 8px}
+
+.col.m6{width:49.99999%}
+
+.round,.round-medium{border-radius:4px}
+
+.image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
+
+.opacity,.hover-opacity:hover{opacity:0.60}
+
+.opacity-off,.hover-opacity-off:hover{opacity:1}
+
+.margin-right{margin-right:16px!important}
+
+.wide{letter-spacing:4px}
+
+.light-grey,.hover-light-grey:hover,.light-gray,.hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
+
+
+.padding-small{padding:4px 8px!important}
+
+.dark-grey,.hover-dark-grey:hover,.dark-gray,.hover-dark-gray:hover{color:#fff!important;background-color:#616161!important}
+
+.container:after,.container:before,.panel:after,.panel:before,.row:after,.row:before,.row-padding:after,.row-padding:before,
+.cell-row:before,.cell-row:after,.clear:after,.clear:before,.bar:before,.bar:after{content:"";display:table;clear:both}
+
+.quarter{width:24.99999%}
+
+.section,.code{margin-top:16px!important;margin-bottom:16px!important}
+
+.top,.bottom{position:fixed;width:100%;z-index:1}
+.top{top:0}
+.bottom{bottom:0}
+
+.opacity-min{opacity:0.75}
+
+.xxlarge{font-size:36px!important}
+
+.text-white,.hover-text-white:hover{color:#fff!important}
+
+.wide{letter-spacing:4px}
+
+.content{max-width:980px;margin:auto}
+
+.padding-64{padding-top:64px!important;padding-bottom:64px!important}
+
+.row-padding,.row-padding>.half,.row-padding>.third,.row-padding>.twothird,.row-padding>.threequarter,.row-padding>.quarter,.row-padding>.col{padding:0 8px}
+
+.col.m3{width:24.99999%}.
+
+.opacity,.hover-opacity:hover{opacity:0.60}.opacity-off,.hover-opacity-off:hover{opacity:1}
+
+.light-grey,.hover-light-grey:hover,.light-gray,.hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
+
+.modal{z-index:3;display:none;padding-top:100px;position:fixed;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:rgb(0,0,0);background-color:rgba(0,0,0,0.4)}
+.modal-content{margin:auto;background-color:#fff;position:relative;padding:0;outline:0;width:600px}
+
+.black,.hover-black:hover{color:#fff!important;background-color:#000!important}
+
+.large{font-size:18px!important}
+
+.display-topright{position:absolute;right:0;top:0}
+
+.animate-zoom {animation:animatezoom 0.6s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+
+.section,.code{margin-top:16px!important;margin-bottom:16px!important}
+
+.container,.panel{padding:0.01em 16px}.panel{margin-top:16px;margin-bottom:16px}
+
+.transparent,.hover-none:hover{background-color:transparent!important}
+
+.container:after,.container:before,.panel:after,.panel:before,.row:after,.row:before,.row-padding:after,.row-padding:before,
+.cell-row:before,.cell-row:after,.clear:after,.clear:before,.bar:before,.bar:after{content:"";display:table;clear:both}
+
+.padding-32{padding-top:32px!important;padding-bottom:32px!important}.
+
+.section,.code{margin-top:16px!important;margin-bottom:16px!important}
+
+.col.m4,.third{width:33.33333%}
+
+.round-large{border-radius:8px}
+
+.greyscale,.grayscale{filter:grayscale(75%)}
+
+.hover-text-black:hover{color:#000!important}
+
+.margin-right{margin-right:16px!important}
+
+.quarter{width:24.99999%}.w3-col.m4,.w3-third{width:33.33333%}
+
+.center{text-align:center!important}
+
+.display-middle{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%)}
+
+.display-container:hover .display-hover{display:block}.display-container:hover span.display-hover{display:inline-block}.display-hover{display:none}
+
+.opacity-min{opacity:0.75}
+.opacity,.hover-opacity:hover{opacity:0.60}.opacity-off,.hover-opacity-off:hover{opacity:1}
